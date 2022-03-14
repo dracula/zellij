@@ -14,9 +14,7 @@ Download using the [GitHub .zip download](https://github.com/dracula/zellij/arch
 
 1. Copy the content of dracula.yaml
 2. Paste it at the end of your zellij config file:
-
-    Linux: ~/.config/zellij
-    Mac: ~/Library/Application Support/org.Zellij-Contributors.Zellij
-
+    * Linux: `~/.config/zellij`
+    * Mac: `~/Library/Application Support/org.Zellij-Contributors.Zellij`
 3. Start a new zellij session
 4. Boom! Enjoy!

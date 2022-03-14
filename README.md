@@ -16,7 +16,7 @@ All instructions can be found at [draculatheme.com/zellij](https://draculatheme.
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/zellij/graphs/contributors).
 
 [![Mathieu Santostefano](https://github.com/welcomattic.png?size=100)](https://github.com/welcomattic) |
 --- |
