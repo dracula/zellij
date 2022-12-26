@@ -12,9 +12,10 @@ Download using the [GitHub .zip download](https://github.com/dracula/zellij/arch
 
 #### Activating theme
 
-1. Copy the content of dracula.yaml
-2. Paste it at the end of your zellij config file:
-    * Linux: `~/.config/zellij`
-    * Mac: `~/Library/Application Support/org.Zellij-Contributors.Zellij`
+1. Copy `dracula.kdl`
+2. Paste it in zellij's themes folder (Create the folder if it doesn't exist):
+    * Linux: `~/.config/zellij/themes`
+    * Mac: `~/Library/Application Support/org.Zellij-Contributors.Zellij/themes`
+3. Add `theme "dracula"` to `config.kdl`
 3. Start a new zellij session
 4. Boom! Enjoy!
